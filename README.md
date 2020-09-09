@@ -1,7 +1,7 @@
 # MLDL-deliberate-learning
 [This is Basic writing and formatting syntax on github](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-
+I got an idea to make nice and clean repository for learning Machine Learning and Deep Learning when i'vd done reading this BLog ["How I'd start learning machinnne learning again in 3 years](https://towardsdatascience.com/how-id-start-learning-machine-learning-again-3-years-in-55c52aaee52a) by Daniel Bourke.
 
 ### The Beginner Path
 
