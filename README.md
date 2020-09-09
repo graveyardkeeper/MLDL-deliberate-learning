@@ -3,7 +3,6 @@
 
 I got an idea to a make nice and clean repository for learning Machine Learning and Deep Learning when i've done reading this BLog ["How I'd start learning machinnne learning again in 3 years](https://towardsdatascience.com/how-id-start-learning-machine-learning-again-3-years-in-55c52aaee52a) by Daniel Bourke.
 
-### The Beginner Path
 
 -  Machine learning concepts — understand what kind of problems machine learning can and should be used for. [Elements of AI](https://www.elementsofai.com/) is great for this.
 
