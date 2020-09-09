@@ -1,6 +1,7 @@
 # MLDL-deliberate-learning
+[This is Basic writing and formatting syntax on github](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-When i was on my way to 
+
 
 ### The Beginner Path
 
