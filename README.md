@@ -17,7 +17,7 @@ I got an idea to a make nice and clean repository for learning Machine Learning 
 
 - 5. [This is fast.ai making neural nets uncool again](https://www.fast.ai/)
 
-- 6 [Any of deeplearning.ai’s curriculum(s)](https://www.deeplearning.ai/) — choose the one which sparks your interest the most. Compliments fast.ai’s practical approach with theory.
+- 6. [Any of deeplearning.ai’s curriculum(s)](https://www.deeplearning.ai/) — choose the one which sparks your interest the most. Compliments fast.ai’s practical approach with theory.
 
 - 7. [Full-stack deep learning](https://course.fullstackdeeplearning.com/) This is where i am going to tie together machine learning knowledge i've got with the wev development knowledge i've been learning.
 
