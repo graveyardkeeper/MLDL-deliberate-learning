@@ -10,7 +10,7 @@ I got an idea to a make nice and clean repository for learning Machine Learning 
 
 -  [cs50](https://cs50.harvard.edu/college/2020/fall/)  and cs50 artificial intelligence on Youtube for foundational computer science and artificial intelligence skills.
 
-- ["What I learned from looking at 200 machine learning tools"](https://huyenchip.com/2020/06/22/mlops.html) 
+- ["What I learned from looking at 200 machine learning tools"](https://huyenchip.com/2020/06/22/mlops.html)  This Blog itself has loads of resources in it.
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
