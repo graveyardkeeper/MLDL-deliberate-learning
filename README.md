@@ -7,7 +7,7 @@ I got an idea to a make nice and clean repository for learning Machine Learning 
 -  Machine learning concepts — understand what kind of problems machine learning can and should be used for. [Elements of AI](https://www.elementsofai.com/) is great for this.
 
 
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- You should start learning from this if you are not cs background [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 -  [freeCodeCamp](https://www.freecodecamp.org/) For Web Development skills
 
