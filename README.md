@@ -3,6 +3,8 @@
 
 I got an idea to a make nice and clean repository for learning Machine Learning and Deep Learning when i've done reading this BLog ["How I'd start learning machinnne learning again in 3 years](https://towardsdatascience.com/how-id-start-learning-machine-learning-again-3-years-in-55c52aaee52a) by Daniel Bourke.
 
+Read this if you want to know [How to become a machine learning engineer: A cheat sheet](https://www.techrepublic.com/article/how-to-become-a-machine-learning-engineer-a-cheat-sheet/#:~:text=What%20other%20skills%20are%20required,skills%20needed%2C%20according%20to%20Udacity.)
+
 
 -  Machine learning concepts — understand what kind of problems machine learning can and should be used for. [Elements of AI](https://www.elementsofai.com/) is great for this.
 
@@ -27,4 +29,3 @@ I got an idea to a make nice and clean repository for learning Machine Learning 
 
 
 - Jason Benn's [How I learned web development, software engineering & ML ](https://jasonbenn.com/)
-
